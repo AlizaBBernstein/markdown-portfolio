@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# My Name
+My Name is Aliza Bina Bernstein.
+## My Location
+I live in the Middle East
